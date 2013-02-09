@@ -10,7 +10,7 @@
     <parent>
         <groupId>com.mitsugaru</groupId>
         <artifactId>ProjectKarma</artifactId>
-        <version>1.4.5-SNAPSHOT</version>
+        <version>1.4.7</version>
     </parent>
     <!-- Source code management URL. -->
     <scm>
@@ -27,7 +27,8 @@
     <!-- Properties -->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <project.mainclass>com.mitsugaru.karmicjail.KarmicJail</project.mainclass>
+        <project.mainclass>com.mitsugaru.VaporTrails.VaporTrails</project.mainclass>
+        <project.website>http://dev.bukkit.org/server-mods/vaportrails/</project.website>
     </properties>
     <!-- Repositories -->
     <repositories>
